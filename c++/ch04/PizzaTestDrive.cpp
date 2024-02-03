@@ -73,6 +73,11 @@ class ChicagoStyleCheesePizza :
       toppings_.push_back("Shredded Mozzarella Cheese");
     }
 
+    void cut()
+    {
+      std::cout << "Cutting the pizza into square slices" << std::endl;
+    }
+
     ~ChicagoStyleCheesePizza()
     { }
 };

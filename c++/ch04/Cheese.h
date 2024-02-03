@@ -8,4 +8,8 @@ class ReggianoCheese :
   public Cheese
 { };
 
+class MozzarellaCheese :
+  public Cheese
+{ };
+
 #endif

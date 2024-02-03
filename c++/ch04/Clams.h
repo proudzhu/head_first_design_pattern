@@ -8,4 +8,8 @@ class FreshClams :
   public Clams
 { };
 
+class FrozenClams :
+  public Clams
+{ };
+
 #endif

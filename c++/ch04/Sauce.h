@@ -8,4 +8,8 @@ class MarinaraSauce :
   public Sauce
 { };
 
+class PlumTomatoSauce :
+  public Sauce
+{ };
+
 #endif

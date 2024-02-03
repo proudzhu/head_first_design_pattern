@@ -20,4 +20,16 @@ class RedPepper :
   public Veggies
 { };
 
+class BlackOilves :
+  public Veggies
+{ };
+
+class Spinach :
+  public Veggies
+{ };
+
+class EggPlant :
+  public Veggies
+{ };
+
 #endif

@@ -14,6 +14,8 @@
 class Pizza
 {
   public:
+    virtual ~Pizza() = default;
+
     virtual void prepare() = 0;
 
     virtual void bake()

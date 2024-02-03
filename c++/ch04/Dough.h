@@ -8,4 +8,8 @@ class ThinCrustDough :
   public Dough
 { };
 
+class ThickCrustDough :
+  public Dough
+{ };
+
 #endif
